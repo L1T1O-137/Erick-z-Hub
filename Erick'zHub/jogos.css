@@ -28,3 +28,10 @@ body {
     font-weight: bold;
     color: yellow !important;
 }
+
+/* FIM DO CSS EM COMUM */
+.capa {
+    display: flex;
+    margin-top: 15px;    
+}
+
